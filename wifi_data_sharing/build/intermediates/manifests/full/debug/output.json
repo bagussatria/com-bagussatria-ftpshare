@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":8,"versionName":"1.6","enabled":true,"outputFile":"wifi_data_sharing-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.sharing.file.data.ftp.transfer.wifi.server.free","split":"","minSdkVersion":"9"}}]

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:D.\Android Project\wifidatasharing\googleplayservices_lib_airpush_enable\libs\google-play-services.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/googleplayservices_lib_airpush_enable/libs/google-play-services.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

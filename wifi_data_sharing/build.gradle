@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "com.sharing.file.data.ftp.transfer.wifi.server.free"
+        minSdkVersion 9
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':googleplayservices_lib_airpush_enable')
+    compile files('libs/android-support-v4.jar')
+    compile files('libs/AppFireworks.jar')
+    compile files('libs/LBPhonegapPlugin.jar')
+    compile files('libs/LeadboltAdWrapper.jar')
+    compile files('libs/LeadBoltB4A.jar')
+    compile files('libs/LeadBoltUnity.jar')
+    compile files('libs/mfzyzzyfnimpxdmujcwv.jar')
+    compile files('libs/StartAppInApp-2.4.1.jar')
+}

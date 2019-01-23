@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_help_pre.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-xhdpi\\help_pre.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_help_selector.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-mdpi\\help_selector.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\color_common_signin_btn_text_light.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_setting_pre.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-ldpi\\setting_pre.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h2.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-hdpi\\h2.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_filesharing.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-mdpi\\icon_filesharing.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_pre.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-hdpi\\setting_pre.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_setting_selector.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-ldpi\\setting_selector.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h1.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-hdpi\\h1.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_wifi_off.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\wifi_off.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_check.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\check.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_text_dark.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_check2.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\check2.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_setting_pre.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-mdpi\\setting_pre.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_help_pre.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-mdpi\\help_pre.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h4.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-hdpi\\h4.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_help_selector.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-hdpi\\help_selector.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_help_selector.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-xhdpi\\help_selector.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\xml_widget_info.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_icon_light.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\color_common_signin_btn_text_dark.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_setting_pre.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-xhdpi\\setting_pre.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_check4.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\check4.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\xml_widget_provider.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\xml\\widget_provider.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_widget_on.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\widget_on.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_icon_filesharing.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\icon_filesharing.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_help_selector.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-ldpi\\help_selector.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_setting_selector.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-xhdpi\\setting_selector.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_text_light.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_wifi_pressed.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\wifi_pressed.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_setting1.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\setting1.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_check3.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\check3.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_help_titlebar.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\help_titlebar.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_wifi_on.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\wifi_on.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_filesharing.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-ldpi\\icon_filesharing.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_setting_selector.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-mdpi\\setting_selector.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_titlebar.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\titlebar.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\layout_activity_ftp__start__stop.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\layout\\activity_ftp__start__stop.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ftp_icon.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-hdpi\\ftp_icon.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_help_pre.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-ldpi\\help_pre.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_icon_dark.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_field.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-hdpi\\field.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_wifi_simple.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\wifi_simple.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_help_pre.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-hdpi\\help_pre.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\layout_widget_layout.xml.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_widget_off.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\widget_off.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h3.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-hdpi\\h3.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable_bt_help.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable\\bt_help.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_selector.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\src\\main\\res\\drawable-hdpi\\setting_selector.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android Project\\wifidatasharing\\wifi_data_sharing\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "D:\\Android Project\\wifidatasharing\\googleplayservices_lib_airpush_enable\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    }
+]
